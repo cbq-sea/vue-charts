@@ -1,0 +1,6 @@
+{
+  "AreaChart": "./src/components/AreaChart/index.js",
+  "BarChart": "./src/components/AreaChart/index.js",
+  "LineChart": "./src/components/AreaChart/index.js",
+  "PieChart": "./src/components/AreaChart/index.js"
+}
